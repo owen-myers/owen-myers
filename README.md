@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @owen-myers
 - 👀 I’m interested in creating social impact using technology.
-- 🌱 I’m currently learning Java. 
+- 🌱 I’m currently learning JS. 
 - 💞️ I’m looking to collaborate on anything. 
